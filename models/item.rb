@@ -25,6 +25,8 @@ class Item
     ).execute * quantity
   end
 
+  private
+
   def tax_exempted?
     book? || medicine? || food?
   end
