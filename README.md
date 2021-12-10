@@ -10,7 +10,7 @@
 - Checkout and install dependencies:
 
 ```
-git@github.com:oNguyenNgocTrung/sales_taxes.git
+git clone git@github.com:oNguyenNgocTrung/sales_taxes.git
 cd sales_taxes
 bundle install
 ```
